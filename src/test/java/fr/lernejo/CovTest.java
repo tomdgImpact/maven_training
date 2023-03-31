@@ -3,7 +3,7 @@ package fr.lernejo;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
-public class Cov {
+public class CovTest {
     @Test
     void testAddition() {
         Sample sample = new Sample();
